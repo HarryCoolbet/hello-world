@@ -1,5 +1,4 @@
 # hello-world
 
-This is my first bit of text on GitHub.
-I'm still not sure where this will lead..
-Also feel I should be watching Wimbledon tennis right now.
+I'm confused as the previous bit of text I edited went straight to the Master branch.
+TRying again with this text which is clearly changing readme.
